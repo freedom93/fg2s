@@ -1,4 +1,4 @@
-# fg2s
+# fg2s(freedom's git2svn)
 
 Unidirectional synchronization between git and svn, git2svn's webhook run on pm2.
 
