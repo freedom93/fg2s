@@ -1,0 +1,14 @@
+{
+  "name": "fg2s",
+  "version": "1.0.0",
+  "description": "a node app for git2svn.",
+  "main": "app.js",
+  "repository": "git@github.com:freedom93/fg2s.git",
+  "author": "1563607296@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "shelljs": "^0.8.1"
+  }
+}
